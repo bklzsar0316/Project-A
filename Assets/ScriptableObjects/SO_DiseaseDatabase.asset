@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c4e719bbb181b4449f79319111c122b, type: 3}
+  m_Name: SO_DiseaseDatabase
+  m_EditorClassIdentifier: Assembly-CSharp::SO_DiseaseDatabase
+  diseaseDatas:
+  - {fileID: 11400000, guid: 6021a90c74d32c24c86a6969cdf52cad, type: 2}
+  - {fileID: 11400000, guid: ac5ff632ebc1c7a4da4e4f18632b7113, type: 2}
+  - {fileID: 11400000, guid: e40ce39e4f0d6414891818f2d3cd587b, type: 2}

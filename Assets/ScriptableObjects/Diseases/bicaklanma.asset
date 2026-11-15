@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7179ec76d539a1849bfc5e183d4e04f9, type: 3}
+  m_Name: bicaklanma
+  m_EditorClassIdentifier: Assembly-CSharp::SO_DiseaseData
+  disease: bicaklanma
+  symptoms:
+  - {fileID: 11400000, guid: 4d79efb0248a8104282dff9d4e624353, type: 2}
+  treatmentSteps:
+  - {fileID: 11400000, guid: 114c7c201343a3f46819920e52d964e8, type: 2}
+  - {fileID: 11400000, guid: 633b23983b95ac94eb5a69b0aa5c8d3b, type: 2}
